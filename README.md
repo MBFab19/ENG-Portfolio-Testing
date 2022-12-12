@@ -35,5 +35,5 @@ Interested in testing and programming. I’m a creative, proactive, responsible 
  
  ## Other projects
  
-  * [Salud mental en tiempos de COVID-19](https://docs.google.com/document/d/1PRnvuWAImKSNYe8COTNF2M1w9sZzNnji/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
+  * [Mental Health During COVID-19 Times - 2020 Economic and Social Studies Final Project](https://docs.google.com/document/d/1PRnvuWAImKSNYe8COTNF2M1w9sZzNnji/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
   * [Test Report - Instagram Web](https://drive.google.com/file/d/1uefg2cFynspkTriKzmg0GZeXH_FxQswu/view?usp=sharing)
