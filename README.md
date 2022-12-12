@@ -6,7 +6,7 @@ Interested in testing and programming. I’m a creative, proactive, responsible 
 * **Software Testing - Jóvenes a Programar (230hs):**
 
   * Introduction to programming and computational thinking.
-  * Testing: SRS, Test Cases, Equivalence Partition, Incident Report, Peer Review, Agile Testing, Requirements-Based Testing, Use Case Testing, Regression Testing, Functional Testing, Manual Testing and Test Report.
+  * Testing: SRS, test cases, equivalence partition, incident report, peer review, agile testing, requirements-based testing, use case testing, regression testing, functional testing, manual testing and test report.
   * Soft skills: communication, teamwork, proactivity, determination (GRIT), interpersonal relationships, self-management and responsibility.
   * English (VOXY).
   * Creation of agile projects in Jira, configuration and administration of Kanban boards.
@@ -31,7 +31,7 @@ Interested in testing and programming. I’m a creative, proactive, responsible 
   * [Incident Report](https://docs.google.com/spreadsheets/d/1eImLlSWND2l7o4t9lrj5HUJYlw8wOtnD/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
   * [Test Report](https://docs.google.com/document/d/1DokT4EJfiCDkdYNQk-b4OXAcOmYfQf0r/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
   * [Database Incident Report](https://docs.google.com/spreadsheets/d/1GASDbjMd_s0dXMkB_OMVMQ9gHRgM8lWZ/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
-  * [IDatabase Test Report](https://docs.google.com/document/d/1ugu8HjGCKNfkmCV1ybZu5r8N3BFfrkdS/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
+  * [Database Test Report](https://docs.google.com/document/d/1ugu8HjGCKNfkmCV1ybZu5r8N3BFfrkdS/edit?usp=sharing&ouid=111567554981086059412&rtpof=true&sd=true)
  
  ## Other projects
  
